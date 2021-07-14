@@ -1,2 +1,3 @@
 # hello-world
-It is a repository for practice...
+
+This is a fresh start. I am trying to get familiar with GitHub!
