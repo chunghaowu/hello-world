@@ -1,0 +1,2 @@
+Eeven a monkey understands Git.
+Add new content.
